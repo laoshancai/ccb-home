@@ -8,7 +8,5 @@ draft: false
 
 this is a test version.
 
-这个网站真牛逼
-
 any update？？
 
