@@ -1,16 +1,16 @@
 ---
 # Display name
-name: Jianmin Wu
+name: Yu Cai
 
 # Username (this should match the folder name)
 authors:
-- admin
+- caiyu
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Principal Investigator, Key laboratory of Carcinogenesis and Translational Research (Ministry of Education) ,ICGC member & ICGC-ARGO Scientific Planning Committe member
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,24 +18,10 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Principal Investigator, Key laboratory of Carcinogenesis and Translational Research (Ministry of Education);ICGC member & ICGC-ARGO Scientific Planning Committe member
+bio: Graduate Student(2017 - )
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
 
-education:
-  courses:
-  - course: Ph.D in bioinformatics
-    institution: Peking University
-    year: 2001-2006
-  - course: Postdoctoral fellow
-    institution: Biomedicum Helsinki, Finland
-    year: 2006-2010
-  - course: Group Leader
-    institution: Garvan Institute of medical research, Sydney
-    year: 2010-2015
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -66,7 +52,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Director
+- Grad Students
 
 ---
 
