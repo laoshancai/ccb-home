@@ -7,35 +7,16 @@ authors:
 - admin
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Principal Investigator, Key laboratory of Carcinogenesis and Translational Research (Ministry of Education) ,ICGC member & ICGC-ARGO Scientific Planning Committe member
+role:  Director, <br> Center for Cancer Bioinformatics <br><br>Member, <br>ICGC-ARGO Scientific Planning Committee
 
 # Organizations/Affiliations
-organizations:
-- name: Center for Cancer Bioinformatics, Peking University Cancer Hospital & Institute
-  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Principal Investigator, Key laboratory of Carcinogenesis and Translational Research (Ministry of Education);ICGC member & ICGC-ARGO Scientific Planning Committe member
+bio: 
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: Ph.D in bioinformatics
-    institution: Peking University
-    year: 2001-2006
-  - course: Postdoctoral fellow
-    institution: Biomedicum Helsinki, Finland
-    year: 2006-2010
-  - course: Group Leader
-    institution: Garvan Institute of medical research, Sydney
-    year: 2010-2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,15 +26,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,15 +43,31 @@ user_groups:
 
 ---
 
-**Our research**
+[**中文**](http://teach1.bjcancer.org/postgraduate/planofzhaosheng/daoshi_intro.aspx?peopleleibie=2&peopleid=959)
 
-- Focusing on data-driven cancer research, combining high-throughput genomic, transcriptomic and proteomic profiling approaches, to comprehensively investigate molecular landscapes of GI cancer and identify prognosis/predictive biomarkers and novel therapeutic targets
-- Functional study of identified candidate genes using patient derived tumor organoids, a new generation of *ex vivo* models.
-- Pan-cancer study and in-depth data mining.
+**Positions** **(**[ORCiD](https://orcid.org/0000-0002-8876-128X))
 
+<font size="4" >
 
+2016.2 – present:&emsp;&emsp;Director, Center for Cancer Bioinformatics  
+ Principal Investigator , Key laboratory of Carcinogenesis and Translational Research (Ministry of Education)  
+ Peking University Cancer Hospital & Institute, Beijing, China  
 
-**Tools & Databases we developed**
+2010.8 – 2015.12: &emsp;Head, Cancer Bioinformatics Group  
+ The Kinghorn Cancer Centre & Cancer Division  
+ Garvan Institute of Medical Research, Sydney, Australia  
 
-- [PINA](http://omics.bjcancer.org/pina): An integrated platform for protein interaction network construction, filtering, analysis, visualization and management
-- [CVCDAP](http://omics.bjcancer.org/cvcdap): DIY Your Cancer Cohort & Omics-X Analysis
+2006.9 - 2010.7: &emsp;Postdoctoral fellow   
+Institute of biomedicine, University of Helsinki, Finland  
+
+</font>
+
+**Research Highlights**
+
+<font size="4" >
+
+- Performed pan-cancer analysis of the kinome, to gain insights into how members of the protein kinase superfamily are dysregulated in malignancy, the context-dependent functional role of specific kinases in cancer and how kinome remodelling modulates sensitivity to anticancer drugs. ([*Nature Reviews Cancer 2016*](https://www.ncbi.nlm.nih.gov/pubmed/26822576))
+
+- Developed a number of integrated platforms for functional analysis, including PINA ([*Nucleic Acids Res* 2012](https://www.ncbi.nlm.nih.gov/pubmed/22067443)*,* [*Nature Methods* 2009](https://www.ncbi.nlm.nih.gov/pubmed/19079255)*),* Weblab *(*[*Nucleic Acids Res. 2009*](https://www.ncbi.nlm.nih.gov/pubmed/19465388)*) and* KOBAS-web *(*[*Nucleic Acids Res. 2006* ](https://www.ncbi.nlm.nih.gov/pubmed/16845106)*)*
+
+</font>

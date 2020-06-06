@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Master student (2017-)
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Graduate Student(2017 - )
+bio: Cai Yu majors in bioinformatics.
 
 
 
@@ -56,15 +56,8 @@ user_groups:
 
 ---
 
-**Our research**
-
-- Focusing on data-driven cancer research, combining high-throughput genomic, transcriptomic and proteomic profiling approaches, to comprehensively investigate molecular landscapes of GI cancer and identify prognosis/predictive biomarkers and novel therapeutic targets
-- Functional study of identified candidate genes using patient derived tumor organoids, a new generation of *ex vivo* models.
-- Pan-cancer study and in-depth data mining.
 
 
 
-**Tools & Databases we developed**
 
-- [PINA](http://omics.bjcancer.org/pina): An integrated platform for protein interaction network construction, filtering, analysis, visualization and management
-- [CVCDAP](http://omics.bjcancer.org/cvcdap): DIY Your Cancer Cohort & Omics-X Analysis
+**Yu Cai** majors in bioinformatics.

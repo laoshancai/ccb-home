@@ -12,6 +12,7 @@ title = "Join Us"
 subtitle = "Open positions for research faculty and students"
 
 [design]
+
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 
@@ -23,7 +24,7 @@ subtitle = "Open positions for research faculty and students"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#04B4AE"
+  color = "ffffff"
 
   # Background gradient.
   # gradient_start = "DarkGreen"
@@ -48,18 +49,11 @@ subtitle = "Open positions for research faculty and students"
  css_class = ""
 +++
 
-### Research positions
+### Open positions
 
-- blank
-- blank
-- blank
-
-
-
-### Student and Post-doc positions
-
--  blank
-- 
+-  [Student position]( http://teach1.bjcancer.org/postgraduate/planofzhaosheng/daoshi_intro.aspx?peopleleibie=2&peopleid=959)
+- [Postdoc position](http://www.sohu.com/a/277909325_101221)
+- Contact Dr. Wu directly for Staff positions.
 
 
 

@@ -8,38 +8,38 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Wu Lab"
-subtitle = "Center for Cancer Bioinformatics, Peking University Cancer Hospital & Institute"
+# title = "Wu Lab"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
 [design.background]
+
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#04B4AE"
+ # color = "#ccff99"
 
   # Background gradient.
-  # gradient_start = "DarkGreen"
-  # gradient_end = "ForestGreen"
+   gradient_start = "ccff99"
+   gradient_end = "ffffff"
 
-  # Background image.
-  # image = "image.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
+
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
 
 [advanced]
+
  # Custom CSS. 
  css_style = ""
 
@@ -47,21 +47,28 @@ subtitle = "Center for Cancer Bioinformatics, Peking University Cancer Hospital 
  css_class = ""
 +++
 
-### Our research
+![lablogo](/public/img/bg-1.png)
 
-- Focusing on data-driven cancer research, combining high-throughput genomic, transcriptomic and proteomic profiling approaches, to comprehensively investigate molecular landscapes of GI cancer and identify prognosis/predictive biomarkers and novel therapeutic targets
-- Functional study of identified candidate genes using patient derived tumor organoids, a new generation of *ex vivo* models.
-- Pan-cancer study and in-depth data mining.
+### Research interests
 
-
-
-### Tools & Databases we developed
-
-- [PINA](http://omics.bjcancer.org/pina): An integrated platform for protein interaction network construction, filtering, analysis, visualization and management
-- [CVCDAP](http://omics.bjcancer.org/cvcdap): DIY Your Cancer Cohort & Omics-X Analysis
+- Focus on data-driven cancer research, by utilizing high-throughput genomic, transcriptomic and proteomic approaches, to characterize
+  molecular landscapes of gastrointestinal cancer for identifying clinical
+  biomarkers and novel therapeutic targets.
+- Develop software tools and databases for functional analysis (pathway and interaction network) , pan-cancer analysis etc.
+- Investigate function and therapeutic potential of candidate genes
+  identified from the discovery study, using patient derived tumor organoids and xenografts.
 
 
 
-### IT infrastrucuter
+### Major Projects
 
-- The center is equipped with a high-performance cluster computing system (760 CPU cores and 5.12 TB memory) and a high-speed (56Gb/s) storage network (1.44 PB) for analysis of large cohorts of -omics data.
+- Genomic and Proteomic Characterisation of Gastric Cancer([GPGC](https://www.icgc-argo.org/page/101/gpgc)): an ICGC-ARGO project to investigate the proteogenomic landscape of gastric cancer from a clinically well-annotated cohort, and define molecular subtype and corresponding therapeutic implications. The developed multi-modal predictive signatures for chemo-response will be validated using samples collected from clinical trials.
+- [CVCDAP](http://omics.bjcancer.org/cvcdap) : a web-based Cancer Virtual Cohort Discovery Analysis Platform to allow flexible selection of patients sharing common molecular/clinical characteristics integrated from different studies (>10,000 patients), and perform rapid and effective discovery analysis to answer versatile biological and clinical research questions using dozens of built-in tools.
+- [PINA](http://omics.bjcancer.org/pina) is an integrated platform for protein interaction network
+  construction, filtering, analysis, visualization and management. ([*Nucleic Acids Res* 2012](https://www.ncbi.nlm.nih.gov/pubmed/22067443)*,* [*Nature Methods* 2009](https://www.ncbi.nlm.nih.gov/pubmed/19079255)*)*
+
+
+
+### IT infrastructure
+
+  Our center is equipped with a high-performance cluster computing system (760 CPU cores and 5.12 TB memory) and a high-speed (56Gb/s) storage network (1.44 PB) for storage and analysis of large -omics data.
